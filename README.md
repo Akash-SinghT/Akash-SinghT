@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Akash-SinghT/Akash-SinghT/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Akash Singh</h1>
 <h3 align="center">A passionate Software Engineer developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif">
